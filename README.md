@@ -184,15 +184,15 @@ _____
 ### Model Results:
 |Models| Accuracy|                       
 |-------|------  |  
-| Word2vec + SVM|76.85
-|Word2Vec + LSTM|67.35
-|Word2Vec + Bi-LSTM|67.02
-|FastText + SVM|80.88
-|FastText + LSTM|67.21
-|FastText + Bi-LSTM|66.50
-|BengFastText + SVM|81.18
-|BengFastText + LSTM|66.20
-|BengFastText + Bi-LSTM|67.43
+| Word2vec + SVM|76.85%
+|Word2Vec + LSTM|67.35%
+|Word2Vec + Bi-LSTM|67.02%
+|FastText + SVM|80.88%
+|FastText + LSTM|67.21%
+|FastText + Bi-LSTM|66.50%
+|BengFastText + SVM|81.18%
+|BengFastText + LSTM|66.20%
+|BengFastText + Bi-LSTM|67.43%
 
 # Task-2: 
 > Classifying  bengali texts them into political, personal, geopolitical, and religious hates
